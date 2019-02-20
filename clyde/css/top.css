@@ -1,0 +1,51 @@
+.image-wrapper{
+	background-color: #372707;
+	margin-bottom:75px;
+}
+
+.recommend-menu li{
+	display: inline;
+	padding-right: 17px;
+	padding-left:17px;
+}
+
+main section h2{
+	font-style:italic;
+	border-top:solid 2px #6d6c6a;
+	border-bottom:solid 2px #6d6c6a;
+	padding-top:25px;
+	padding-bottom:25px;
+	margin-top:45px;
+	margin-bottom:60px;
+	color:#1d1502;
+	font-size: 28px;
+}
+
+.midashi-wrapper{
+	width:385px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+main section p{
+	text-transform: uppercase;
+	padding-bottom:50px;
+	border-bottom:solid 2px #6d6c6a;
+	margin-bottom:63px;
+	text-align: left;
+}
+
+.text-wrapper{
+	width:1160px;
+	margin-left:auto;
+	margin-right:auto;
+	line-height:28px;
+}
+
+main section ul li{
+	padding-top: 50px;
+}
+
+.reservation{
+border-top:2px solid #6d6c6a;
+}

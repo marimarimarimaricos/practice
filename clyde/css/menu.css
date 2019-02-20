@@ -1,0 +1,171 @@
+@import "common.css";
+	
+article h1{
+		color:#1d1502;
+		font-size:40px;
+		font-weight:italic;
+		padding-top:55px;
+	padding-bottom: 79px;
+		background-image: url(../img/menu/since1963.png);
+		background-repeat:no-repeat;
+	    background-position: bottom;
+}
+
+h2 img{
+	padding-top: 50px;
+}
+
+.chicken-name{
+	color:#54410c;
+	font-size:26px;
+	font-weight: bold;
+	background-image: url(../img/menu/line.png);
+	background-repeat:no-repeat;
+	background-position: bottom;
+	padding-top:30px;
+	padding-bottom: 57px;
+}
+
+.chicken-setsumei{
+	padding-top: 23px;
+	padding-bottom: 30px;
+	color:#1d1502;
+	font-size:18px;
+	line-height: 28px;
+}
+
+.chicken-price{
+	color:#6b5311;
+	font-size: 28px;
+	font-weight:bold;
+}
+
+.maindish-link{
+	padding-top:21px;
+	
+}
+
+.maindish-link a{
+	display:inline-block;
+	background-color: #6b5311;
+	color:#FFF;
+	width:208px;
+	padding:25px 23px 23px 27px;
+	text-decoration: none;
+}
+
+.maindish-link a:hover{
+	opacity: 0.7;
+}
+
+.roasted-chicken{
+	border:solid 2px #4c4b4a;
+	width:1160px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 66px;
+	padding-bottom:54px;
+}
+.ice-name{
+	color:#54410c;
+	font-size:26px;
+	font-weight: bold;
+	background-image: url(../img/menu/line.png);
+	background-repeat:no-repeat;
+	background-position: bottom;
+	padding-top:30px;
+	padding-bottom: 57px;
+}
+
+.ice-setsumei{
+	padding-top: 23px;
+	padding-bottom: 30px;
+	color:#1d1502;
+	font-size:18px;
+	line-height: 28px;
+}
+
+.ice-price{
+	color:#6b5311;
+	font-size: 28px;
+	font-weight:bold;
+}
+
+.dessert-link{
+	padding-top:21px;
+	
+}
+
+.dessert-link a{
+	display:inline-block;
+	background-color: #6b5311;
+	color:#FFF;
+	width:208px;
+	padding:25px 23px 23px 27px;
+	text-decoration: none;
+}
+
+.dessert-link a:hover{
+	opacity: 0.7;
+}
+
+.dessert{
+	border:solid 2px #4c4b4a;
+	width:1160px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 66px;
+	padding-bottom:54px;
+}
+.wine-name{
+	color:#54410c;
+	font-size:26px;
+	font-weight: bold;
+	background-image: url(../img/menu/line.png);
+	background-repeat:no-repeat;
+	background-position: bottom;
+	padding-top:30px;
+	padding-bottom: 57px;
+}
+
+.wine-setsumei{
+	padding-top: 23px;
+	padding-bottom: 30px;
+	color:#1d1502;
+	font-size:18px;
+	line-height: 28px;
+}
+
+.wine-price{
+	color:#6b5311;
+	font-size: 28px;
+	font-weight:bold;
+}
+
+.drink-link{
+	padding-top:21px;
+	
+}
+
+.drink-link a{
+	display:inline-block;
+	background-color: #6b5311;
+	color:#FFF;
+	width:208px;
+	padding:25px 23px 23px 27px;
+	text-decoration: none;
+}
+
+.drink-link a:hover{
+	opacity: 0.7;
+}
+
+.drink{
+	border:solid 2px #4c4b4a;
+	width:1160px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 66px;
+	margin-bottom: 51px;
+	padding-bottom:54px;
+}

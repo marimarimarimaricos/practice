@@ -1,0 +1,110 @@
+body{
+	background-color: #fffdf8;
+	color: #54410c;
+	font-size:20px;
+	font-family: "Georgia","ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+}
+
+header{
+	padding-bottom: 30px;
+}
+
+header h1{
+	padding-top: 30px;
+	padding-bottom: 23px;
+	
+}
+
+header nav{
+	border-top:2px solid #6d6c6a;
+	border-bottom: 2px solid #6d6c6a;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+header nav li{
+	display: inline;
+	padding-right:45px;
+	padding-left: 45px;
+	
+}
+
+header nav li a{
+	text-decoration: none;
+	font-size: 18px;
+	color: #54410c;
+}
+
+header nav li a:hover{
+	opacity:0.7;
+	text-decoration: underline;
+}
+
+header nav a.active{
+	color: #000;
+	font-weight: bold;
+}
+
+.reservation{
+    width:1160px;
+	margin-left:auto;
+	margin-right:auto;
+margin-top:70px;
+padding-top:65px;}
+
+.reservation :hover{
+	opacity: 0.7;
+}
+
+footer{
+	background-color:#372707;
+	padding-top:40px;
+	margin-top:80px;
+}
+
+.working-hour{
+	background-color: #5f4e1c;
+	width:475px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size:18px;
+	padding-bottom:25px;
+}
+
+.working-hour h2{
+	color:#1d1502;
+	padding-top:28px;
+	padding-bottom:15px;
+}
+
+.footer-logo{
+	padding-top:30px;
+}
+
+.footer-map{
+	padding-top:35px;
+}
+
+footer address{
+	padding-top: 30px;
+	color:#fffdf8;
+	line-height: 1.5;
+}
+
+footer address img{
+	padding-right:13px;
+}
+
+footer p small{
+	
+	color:#fff;
+	line-height: 2.0;
+}
+
+footer p.copyright{
+	background-color: #000;
+	margin-top:25px;
+}
